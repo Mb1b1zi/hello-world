@@ -6,3 +6,4 @@ W3Schools got you covered on GIT and GitHub usage
 This repository is built step by step in the tutorial.
 WE are npow pushing a branch from local git to github
 
+sample code
